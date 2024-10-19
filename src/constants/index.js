@@ -70,7 +70,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "Saraswati Enclave, Gurugram, HARYANA-122001, INDIA",
+  address: "Sector-10A, Gurugram, HARYANA-122001, INDIA",
   phoneNo: "+91 8743910949 ",
   email: "shrivastavak2005@gmail.com",
 };
